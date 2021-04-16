@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://github.com/yorkezhong">Yorkezhong</a></h2>
-<p>I'm currently a font-end engineer <strong>based in 🇨🇳 China WuHan.</strong> I am trying to learn professional skills.If you have a better job opportunity, please contact me</p>
-<img align="right" src="https://i4.hoopchina.com.cn/hupuapp/bbs/669/52122669/thread_52122669_20200503160304_s_935570_w_300_h_184_61352.gif?x-oss-process=image/resize,w_800" />
+<p>I'm currently a font-end engineer <strong>based in 🇨🇳 China WuHan.</strong> I am trying to learn professional skills.If you have a better job opportunity, please contact me.</p>
+<img align="right" src="https://camo.githubusercontent.com/8c9dc73987baa5197bcbbe6c81800d65546e30c2af21eaafd91c9cfa76b1064a/68747470733a2f2f69342e686f6f706368696e612e636f6d2e636e2f687570756170702f6262732f3636392f35323132323636392f7468726561645f35323132323636395f32303230303530333136303330345f735f3933353537305f775f3330305f685f3138345f36313335322e6769663f782d6f73732d70726f636573733d696d6167652f726573697a652c775f383030" />
 <h2>👨‍💻‍ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on WuHan.</li>
