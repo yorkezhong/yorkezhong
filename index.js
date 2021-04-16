@@ -48,11 +48,11 @@ const badgeConfigs = [
     },
     {
         name: 'DevTo',
-        badgeText: '@spiderpig86',
+        badgeText: '@yorkezhong',
         labelBgColor: '0A0A0A',
         logoBgColor: '0A0A0A',
         logo: 'dev.to',
-        link: 'https://dev.to/spiderpig86',
+        link: 'https://dev.to/yorkezhong',
     },
     {
         name: 'Spotify',
@@ -68,9 +68,9 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
-    `🔭 I’m currently working on [Cirrus](https://github.com/Spiderpig86/Cirrus).`,
+    `🔭 I’m currently working on [Cirrus](https://github.com/yorkezhong/Cirrus).`,
     `🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.`,
-    `👨‍💻 Most of my projects are available on [Github](https://github.com/Spiderpig86).`,
+    `👨‍💻 Most of my projects are available on [Github](https://github.com/yorkezhong).`,
     `📝 I regulary write articles on [my blog](${BLOG_HOST}).`,
     `💬 Ping me about **react, koa, security, and cloud stuff**.`,
     `📙 Check out my [resume](https://www.stanleylim.me/resume/resume.pdf).`,
@@ -182,9 +182,9 @@ const toolsConfig = [
 ];
 const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
 
-const stats = `<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />`;
+const stats = `<img src="https://github-readme-stats.vercel.app/api?username=yorkezhong&show_icons=true&count_private=true" alt="yorkezhong" />`;
 
-const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86)`;
+const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=yorkezhong.yorkezhong)`;
 
 (async () => {
 
